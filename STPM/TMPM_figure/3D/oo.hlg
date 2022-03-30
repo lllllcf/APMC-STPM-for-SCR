@@ -1,0 +1,96 @@
+--------------------------------------------------------------------------------
+Translator Name    : Spatial InterOp Connect ( Version : 2019 1.0.1 )
+System Name        : Windows_NT
+Machine Name       : WIN-QK7FMD71D45
+User Name          : chengfan.li
+Source System      : ACIS
+Destination System : IGES
+Input File         : C:\Users\chengfan.li\Desktop\oo.sat
+Output File        : C:\Users\chengfan.li\Desktop\oo.igs
+Start Time         : Sun Jul 11 13:27:13 2021
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : IGES.Writer.TranslateSolidSheets : true
+Message : IGES.TrimCurveWritePreference  : 3
+Message : IGES.Writer.ConvertAnalyticalSurfacesAndCurvesToSpline : true
+Message : ProgramName : CST ACIS InterOp Converter 2016
+Message : AuthorName : chengfan.li
+Message : ===========================
+-------------------------Source File Header Information-------------------------
+Modification Date        : 11 Jul 2021
+File Name                : oo.sat
+Organization             : CST MICROWAVE STUDIO
+Version                  : 2900
+Units                    : MILLIMETER
+Tolerance                : 0.000001
+Document Type            : Part
+Format Type              : ACIS
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Source Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+------------------------Representation Conversion Summary-----------------------
+No. of Acorn Bodies                       :    0
+No. of Solid Bodies                       :    0
+No. of Wire Bodies                        :    0
+No. of Sheet Bodies                       :    108
+--------------------------------------------------------------------------------
+BRep Conversion Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start DocumentFeature
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Preprocessing Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End DocumentFeature
+------------------------Representation Conversion Summary-----------------------
+No. of Working Coordinate Systems         :    0
+No. of Groups                             :    0
+--------------------------------------------------------------------------------
+DocumentFeature Conversion Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------Document Conversion Summary--------------------------
+No. of Items of DocumentFeature Representation :    0
+No. of Items of BRep Representation            :    108
+--------------------------------------------------------------------------------
+Output File "C:\Users\chengfan.li\Desktop\oo.igs" is Successfully Written
+--------------------------------------------------------------------------------
+Finish Time : Sun Jul 11 13:27:13 2021
+
+--------------------------------------------------------------------------------
+Translation Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
